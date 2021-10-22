@@ -1,0 +1,41 @@
+h1.Ex
+{
+   margin-left: 500px;
+}
+body
+{
+ 
+  background-color: #1310e9;
+  background-image: url(Wooden.jpg);
+}
+#Yash
+ { 
+    width: 3em;
+    color:#14047a;
+   
+ }
+  #Çəki
+  { 
+     width: 3em;
+     color:#14047a;
+  }
+  #Boy
+ { 
+    width: 3em;
+    color:#14047a;
+ }
+ #button
+ {
+   margin-left: 200px;
+   color:blanchedalmond;
+   background-color: #ff0000;
+ }
+span
+{
+   margin-left: 20px;
+}
+p.gh
+{
+   margin-left: 5px;
+   margin-bottom: -3px ;
+}
